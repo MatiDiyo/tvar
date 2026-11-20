@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxrRyQT.png" ,Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+
+#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-logo="https://i.imgur.com/TbzCLIi.png" ,Canal 10 Mar del Plata
+#EXTVLCOPT:http-user-agent=iPhone
+https://secure.f.qaotic.net/a12/ngrp:canal10mdq-100044_all/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/RTGABT2.png" ,Canal 7
+#EXTVLCOPT:http-user-agent=iPhone
+https://secure.f.qaotic.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/hrMmvWz.png" ,A24
+#EXTVLCOPT:http-user-agent=iPhone
+https://secure.f.qaotic.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://i.imgur.com/q466zJC.png" ,Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=iPhone
+https://secure.f.qaotic.net/a06/ngrp:gcba_video4-100042_all/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://i.imgur.com/1WcLErz.png" ,Crónica TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://secure.f.qaotic.net/a09/ngrp:cronicatv_video1-100044_all/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://i.imgur.com/xs7CkB8.png" ,Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.imgur.com/fxp0IpM.png" ,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.imgur.com/nFgkNvW.png" ,TyC Sports
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-user-agent=iPhone
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+#EXTINF:-1 tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/HJtHdNh.png" ,El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhVsMnG.png" ,Titan Channel
+https://iptv.bitred.cl/titan_channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivACEOb.png" ,VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuaLrVh.png" ,Vintage Music TV
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFoBcsU.png" ,4ever Music
+http://stream.mcquack.net/257/index.m3u8
+
+#EXTINF:-1 tvg-id="TVE.ar" tvg-logo="https://i.imgur.com/m8qUDB9.png" ,TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="TVE_STAR.TV" tvg-logo="https://i.imgur.com/GErac6t.png" ,Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="Atres Series HD.cl" tvg-logo="https://i.imgur.com/OsZ8Dba.png" ,Atreseries
+https://iptv.bitred.cl/a3series/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-logo="https://i.imgur.com/qsqrHAX.png" ,Europa Europa
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://i.imgur.com/hwM1lAf.png" ,El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery HD.cl" tvg-logo="https://i.imgur.com/aQn6yPA.png" ,Discovery Channel
+https://iptv.bitred.cl/discovery_channel/index.m3u8
+
+#EXTINF:-1 tvg-id="HOME & HEALTH HD.cl" tvg-logo="https://i.imgur.com/ve2EFiz.png" ,Discovery Home & Health
+https://iptv.bitred.cl/discovery_hh/index.m3u8
+
+#EXTINF:-1 tvg-id="DISC. SCIENCE HD.cl" tvg-logo="https://i.imgur.com/Lt2Crmj.png" ,Discovery Science
+https://iptv.bitred.cl/discovery_science/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-logo="https://i.imgur.com/Xvk8mI5.png" ,Discovery World
+https://iptv.bitred.cl/discovery_world/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY HD THEATER.cl" tvg-logo="https://i.imgur.com/Gyh39to.png" ,Discovery Theater
+https://iptv.bitred.cl/discovery_theater/index.m3u8
+
+#EXTINF:-1 tvg-id="France24enEspañol.ar" tvg-logo="https://i.imgur.com/oGSzTel.png" ,France24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.imgur.com/dNXxaEI.png" ,NTN24
+https://stream1.bitred.cl/ntn24/index.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/ad6tj3U.png" ,Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4hEPMK.png" ,The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1Ll7DX.png" ,Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
