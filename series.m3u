@@ -3,7 +3,7 @@
 #EXTINF:-1 channel-id="6759ee82bd523200083b4f0f" tvg-id="6759ee82bd523200083b4f0f" tvg-chno="1443" tvg-name="Avatar: La Leyenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Kids",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 
-#EXTINF:-1 channel-id="6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-chno="1460" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1792528902585.png" group-title="Kids",Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 channel-id="6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-chno="1460" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1792528902585.png" group-title="Kids",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
 #EXTINF:-1 channel-id="631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-chno="211" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Retro",Hechizada
@@ -27,7 +27,7 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 #EXTINF:-1 channel-id="5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="1259" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime & Gaming",Naruto
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
-#EXTINF:-1 channel-id="620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="1360" tvg-name="Nickelodeon iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Teen",Nickelodeon iCarly
+#EXTINF:-1 channel-id="620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="1360" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Teen",iCarly
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 
 #EXTINF:-1 channel-id="6870072ca9d5c45c3e9466f1" tvg-id="6870072ca9d5c45c3e9466f1" tvg-chno="1262" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png" group-title="Anime & Gaming",Pokémon
@@ -45,17 +45,20 @@ https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction_400x200.png",Mr.Bean
 https://amg00627-banijay-amg00627c50-lg-mx-9948.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupmx-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992151/400x200.png?type=white_cropped",602 Camino al cielo
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992151/400x200.png?type=white_cropped",Camino al cielo
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992151&ads.xumo_streamId=99992151&ads.channelId=99992151&ads.inventory_router_id=377&ads.csid=lgchannels_mx_autopistaalcielo_ssai&ads.channelName=FilmRiseTrueCrimeMexico&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_contentId=2648&ads.xumo_providerName=FilmRiseTrueCrimeMexico&ads.xumo_providerId=2648&ads.content_category=IAB1-7&ads.content_genre=Entertainment,Drama,GD&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=Entertainment,Drama,GD&aws.brightLineAdSignalingEnabled=true&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="929" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png" group-title="South Park",Comedy Central South Park
+#EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="929" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png" group-title="South Park",South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 
-#EXTINF:-1 channel-id="5ec5761aabe4690007f6e047" tvg-id="5ec5761aabe4690007f6e047" tvg-chno="131" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" group-title="Series",Pluto TV Star Trek
+#EXTINF:-1 channel-id="5ec5761aabe4690007f6e047" tvg-id="5ec5761aabe4690007f6e047" tvg-chno="131" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" group-title="Series",Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 
-#EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-chno="1015" tvg-name="Bromas Gags - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" group-title="Comedia",Bromas Gags - Just for Laughs
+#EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-chno="1015" tvg-name="Solo para Reir" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" group-title="Comedia",Solo para reír
 https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
+
+#EXTINF:-1 channel-id="6a7b453df5f14c2045f5f00b" tvg-id="6a7b453df5f14c2045f5f00b" tvg-chno="193" tvg-name="Celia" tvg-logo="https://images.pluto.tv/channels/6a7b453df5f14c2045f5f00b/colorLogoPNG_1788961146717.png" group-title="Series",Celia
+https://jmp2.uk/plu-6a7b453df5f14c2045f5f00b.m3u8
 
 #EXTINF:-1 channel-id="6a7b453df5f14c2045f5f00b" tvg-id="6a7b453df5f14c2045f5f00b" tvg-chno="193" tvg-name="Celia" tvg-logo="https://images.pluto.tv/channels/6a7b453df5f14c2045f5f00b/colorLogoPNG_1788961146717.png" group-title="Series",Celia
 https://jmp2.uk/plu-6a7b453df5f14c2045f5f00b.m3u8
