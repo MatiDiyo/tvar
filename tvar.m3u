@@ -10,6 +10,9 @@ https://secure.f.qaotic.net/a12/ngrp:canal10mdq-100044_all/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.imgur.com/kGC1CJu.png",Telefé
+http://200.115.120.1:8000/play/ca016/index.m3u8
+
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/RTGABT2.png" ,Canal 7
 #EXTVLCOPT:http-user-agent=iPhone
 https://secure.f.qaotic.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist_720p.m3u8
@@ -25,10 +28,6 @@ https://secure.f.qaotic.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://i.imgur.com/bhO0BX6.png" ,NET TV
 #EXTVLCOPT:http-user-agent=iPhone
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://i.imgur.com/q466zJC.png" ,Canal de la Ciudad
-#EXTVLCOPT:http-user-agent=iPhone
-https://secure.f.qaotic.net/a06/ngrp:gcba_video4-100042_all/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://i.imgur.com/xs7CkB8.png" ,Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -56,43 +55,11 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkCasXI.png" ,Retro Plus
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uIVNyBL.png",Mr.Bean
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIVNyBL.png" ,Mr.Bean
 https://amg00627-banijay-amg00627c50-lg-mx-9948.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupmx-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68HNMU2.png" ,La Niñera
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-6aa960fa5532ad57085cf7e4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMVvMAA.png", Camino al cielo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMVvMAA.png" ,Camino al cielo
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992151&ads.xumo_streamId=99992151&ads.channelId=99992151&ads.inventory_router_id=377&ads.csid=lgchannels_mx_autopistaalcielo_ssai&ads.channelName=FilmRiseTrueCrimeMexico&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_contentId=2648&ads.xumo_providerName=FilmRiseTrueCrimeMexico&ads.xumo_providerId=2648&ads.content_category=IAB1-7&ads.content_genre=Entertainment,Drama,GD&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=Entertainment,Drama,GD&aws.brightLineAdSignalingEnabled=true&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zUXViJp.png" ,MacGyver
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v0R39oj.png" ,Solo para reír
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ek3atMO.png" ,Avatar: La Leyenda de Aang
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oakfszm.png" ,Bob Esponja
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ylaho0.png" ,Pokemón
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1d8PKGn.png" ,Kenan y Kel
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5f8XE1.png" ,iCarly
-#EXTVLCOPT:http-user-agent=iPhone
-https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 
 #EXTINF:-1 tvg-id="TVE.ar" tvg-logo="https://i.imgur.com/m8qUDB9.png" ,TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
